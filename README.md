@@ -18,7 +18,7 @@ Observables
 
 Usage
 -----
-
+```csharp
     public partial class MyView : UserControl
     {
     	InitializeComponent();
@@ -56,3 +56,4 @@ Usage
 				}
 			});
     }
+```
